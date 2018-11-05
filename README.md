@@ -1,4 +1,4 @@
-## Multiplatform Tic-Tac-Toe
+## Multi-platform Tic-Tac-Toe
 
 We created a web application in NetBeans which holds the Webservice. The webservice communicates with the database through a MySQL object. The java client has a reference to the webservice with which it communicates through a port. The java client makes a method request through the port and also receives the result through the same port.
 
